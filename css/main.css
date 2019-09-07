@@ -211,7 +211,7 @@ margin: 40px 10px;
 {
 width: 1920px;
 height: 519px;
-background: #730C0E;
+background: #FFFFFF;
 }
 
 .text01
@@ -259,7 +259,7 @@ margin: 0 372px;
 {
 width: 374px;
 height: 412px;
-background: #6B5A5A;
+background: #FFFFFF;
 float: left;
 margin: 0 10px;
 }
@@ -376,6 +376,99 @@ margin: 5px;
 }
 
 .mySlides {display:none;}
+
+.content01a img
+{  transition:all 0.3s ease;}
+
+.content01b img
+{  transition:all 0.3s ease;}
+
+.content02a img
+{  transition:all 0.3s ease;}
+
+.content03a img
+{  transition:all 0.3s ease;}
+
+.square02 img
+{  transition:all 0.3s ease;}
+
+.poster img
+{  transition:all 0.3s ease;}
+
+.content05a img
+{  transition:all 0.3s ease;}
+
+.content06b img
+{  transition:all 0.3s ease;}
+
+.gallery img
+{  transition:all 0.3s ease;}
+
+.content04a
+{  transition:all 0.3s ease;}
+
+.review
+{  transition:all 0.3s ease;}
+
+
+
+
+
+.content01a:hover img
+{opacity:0.5;}
+
+.content01b:hover img
+{opacity:0.5;}
+
+.content02a:hover img
+{opacity:0.5;}
+
+.content03a:hover img
+{opacity:0.5;}
+
+.square02:hover img
+{opacity:0.5;}
+
+.poster:hover img
+{opacity:0.5;}
+
+.content05a:hover img
+{opacity:0.5;}
+
+.content06b:hover img
+{opacity:0.5;}
+
+.gallery:hover img
+{opacity:0.5;}
+
+.content04a:hover 
+{transform: scale(0.9);}
+
+.review:hover
+{opacity:0.8;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
