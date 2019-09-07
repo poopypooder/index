@@ -410,6 +410,10 @@ margin: 5px;
 .review
 {  transition:all 0.3s ease;}
 
+.button
+{  transition:all 0.3s ease;}
+
+
 
 
 
@@ -446,6 +450,10 @@ margin: 5px;
 
 .review:hover
 {opacity:0.8;}
+
+.button:hover 
+{transform: scale(0.9);}
+
 
 
 
