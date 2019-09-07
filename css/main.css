@@ -1,0 +1,381 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrapper
+{
+width: 1920px;
+height: auto;
+background: #FFFFFF;
+margin: 0 auto;
+}
+
+.header {
+	width: 1220px;
+	height:53px;
+	background: #605F5F;
+	margin: 0 auto;
+}
+.logo {
+	width: 165px;
+	height: 53px;
+	background: #D49596;
+	float: left;
+		
+}
+
+.menu {
+	width: 1055px;
+	height: 53px;
+	background: #FFFFFF;
+	float: right;
+	
+}
+
+.menu ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.menu ul li {
+	float: left;
+	padding: 15px 50px 15px 50px;		
+}
+.menu ul li a {
+	text-decoration: none;
+	display: block;
+	color: #000000 
+	
+	
+} 
+.menu ul li:hover {
+		background: #d9b579;
+	color: #FFFFFF;
+	
+	
+}
+
+
+
+
+.slider
+{
+width: 1920px;
+height: 681px;
+background: #FFFFFF;
+}
+
+.whatweoffer
+{
+width: 1184px;
+height: 140px;
+background: #FFFFFF;
+margin: 0 372px; 
+color: #000000;
+text-align: center;
+}
+
+.content01
+{
+width: 1184px;
+height: 428px;
+background: #FFFFFF;
+margin: 0 372px; 
+}
+
+.content01a
+{
+width: 779px;
+height: 428px;
+float: left;
+background: #FFFFFF;
+border: #f4f4f4 2px solid;
+border-top: none;
+}
+
+.content01b
+{
+width: 374px;
+height: 428px;
+float: right;
+background: #FFFFFF;
+border: #f4f4f4 2px solid;
+border-top: none;
+}
+
+.content02
+{
+width: 1184px;
+height: 425px;
+background: #FFFFFF;
+margin: 0 372px; 
+}
+.content02a
+{
+width: 374px;
+height: 425px;
+background-color: #FFFFFF;
+float: left;
+margin: 0 10px;
+border: #f4f4f4 2px solid;
+border-top: none;
+border-bottom: none;
+}
+
+.text
+{
+width: 1184px;
+height: 60px;
+background: #FFFFFF;
+margin: 0 372px;
+text-align: center;
+}
+
+.content03
+{
+width: 1184px;
+height: 728px;
+background: #FFFFFF;
+margin: 0 372px;
+}
+
+.content03a
+{
+width: 576px;
+height: 728px;
+background: #FFFFFF;
+float: left;
+}
+
+.content03b
+{
+width: 576px;
+height: 728px;
+background: #FFFFFF;
+float: right;
+}
+
+.row01
+{
+width: 576px;
+height: 345px;
+background: #FFFFFF;
+margin: 12px 0;
+}
+
+.square
+{
+width: 270px;
+height: 345px;
+background: #FFFFFF;
+float: left;
+margin: 0 8px;
+text-align: center;
+}
+
+.square02
+{
+width: 270px;
+height: 280px;
+background: #f4f4f4;
+
+}
+
+.square02 img 
+{margin: 70px 33px;}
+
+
+
+.content04
+{
+width: 1184px;
+height: 150px;
+background: #FFFFFF;
+margin: 0 372px;
+}
+
+.content04a
+{
+width: 370px;
+height: 150px;
+background: #FFFFFF;
+float: left;
+margin: 0 12px;
+border:7px #f4f4f4 double;
+}
+
+.content04a img
+{
+margin: 40px 10px;
+}
+.poster
+{
+width: 1920px;
+height: 519px;
+background: #730C0E;
+}
+
+.text01
+{
+width: 1184px;
+height: 60px;
+background-color: #FFFFFF;
+margin: 0 372px;
+text-align: center;
+}
+
+.review
+{
+width: 1184px;
+height: 390px;
+background: #FFFFFF;
+margin: 0 372px;
+padding: 0 30px;
+text-align: center;
+font-size: 15px;
+border: 7px #f4f4f4 ridge;
+}
+
+.review img
+{margin: 40px 492px}
+
+.teamofprof
+{
+width: 1184px;
+height: 60px;
+background: #FFFFFF;
+margin: 0 372px;
+text-align: center;
+}
+
+.content05
+{
+width: 1184px;
+height: 412px;
+background: #FFFFFF;
+margin: 0 372px;
+}
+
+.content05a
+{
+width: 374px;
+height: 412px;
+background: #6B5A5A;
+float: left;
+margin: 0 10px;
+}
+
+.text02
+{
+width: 1184px;
+height: 60px;
+background-color: #FFFFFF;
+margin: 0 372px;
+text-align: center;
+}
+
+.content06
+{
+width: 1184px;
+height: 470px;
+margin: 0 372px;
+background: #FFFFFF;
+}
+
+.content06a
+{
+width: 374px;
+height: 80px;
+background: #FFFFFF;
+float: left;
+border: #f4f4f4 2px solid;
+border-bottom: none;
+color: #989898;
+}
+
+.content06a
+{
+font-size: 14px;
+}
+
+.content06b
+{
+width: 374px;
+height: 470px;
+background: #FFFFFF;
+float: left;
+margin: 0 10px;
+border: #f4f4f4 2px solid;
+border-top: none;
+}
+
+.content06b
+{
+font-size: 18px;
+}
+
+.footer
+{
+width: 1920px;
+height: 462px;
+background: #272727;
+}
+
+.footer01
+{
+width: 1184px;
+height: 462px;
+background: #272727;
+margin: 0 372px;
+}
+
+.column
+{
+width: 364px;
+height: 462px;
+background: #272727;
+float: left;
+margin: 0 15px;
+}
+
+.content07
+{
+width: 364px;
+height: 360px;
+background: #272727;
+margin: 50px 0px;
+padding: 0 15px;
+}
+
+
+
+.footer02
+{
+width: 1920px;
+height: 76px;
+background: #202020;
+}
+
+.button
+{
+width: 333px;
+height: 62px;
+background: #474747;
+text-align: center;
+color: white;
+font-size: 15px;
+padding: 20px;
+}
+
+.gallery
+{
+width: 134px;
+height: 122px;
+background: #272727;
+float: left;
+margin: 5px;
+}
+
+.mySlides {display:none;}
+
+
+
